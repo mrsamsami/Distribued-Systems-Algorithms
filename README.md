@@ -17,3 +17,4 @@ This repository provides codes for some distributed algorithms and frameworks. A
 **Papers**:
 - [Deeper Inside PageRank (2004)](https://www.internetmathematicsjournal.com/article/1388-deeper-inside-pagerank)
 - [Paxos Made Simple (2001)](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/past/03F/notes/paxos-simple.pdf)
+- [Gossip Algorithms: Design, Analysis and Applications (2005)](https://web.stanford.edu/~balaji/papers/05gossipalgorithms.pdf)
