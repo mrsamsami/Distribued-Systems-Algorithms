@@ -3,7 +3,7 @@ This repository provides codes for some distributed algorithms and frameworks. A
 
 ## List of Implementations:
 - [Network size estimation with flooding algorithm](network%20size%20estimation%20with%20flooding.py)
-- [Network size estimation with gossip algorithm](network%20size%20estimation%20with%20gossip.py)
+- [Network size estimation with gossip algorithm](network%20size%20estimation%20with%20gossip.py): $s^e_i$
 - [PageRank algorithm with Spark](PageRank%20with%20Spark.py)
 
 ## Environment Requirement
