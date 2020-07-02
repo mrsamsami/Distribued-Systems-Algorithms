@@ -7,8 +7,8 @@ This repository provides codes for some distributed algorithms and frameworks. A
 - [Distributed Systems (Sharif, Spring 2020)](http://sina.sharif.ir/~saleh/DS.pdf)
 
 **Textbook**:
-- [Distributed Algorithms](https://groups.csail.mit.edu/tds/distalgs.html)
+- [Distributed Algorithms (1st Edition, 1996)](https://groups.csail.mit.edu/tds/distalgs.html)
 
 **Papers**:
-- [Deeper Inside PageRank](https://www.internetmathematicsjournal.com/article/1388-deeper-inside-pagerank)
-- [Paxos Made Simple](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/past/03F/notes/paxos-simple.pdf)
+- [Deeper Inside PageRank (2004)](https://www.internetmathematicsjournal.com/article/1388-deeper-inside-pagerank)
+- [Paxos Made Simple (2001)](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/past/03F/notes/paxos-simple.pdf)
