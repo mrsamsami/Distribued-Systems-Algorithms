@@ -1,4 +1,4 @@
-# Distributed-Systems-Algorithms
+# Distributed Systems and Algorithms
 This repository provides codes for some distributed algorithms and frameworks. All code is written in Python 3, using multithreading, socket programming, and PySpark.
 
 **Note**: These are implemented algorithms for selected exercises of [distributed systems course](http://sina.sharif.ir/~saleh/DS.pdf) taught by Prof. Saleh in Spring 2020.
